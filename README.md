@@ -63,6 +63,10 @@
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
       alt="react" width="40" height="40" /> </a>
+  <a href="https://flutter.dev/" target="_blank" rel="noreferrer">  <img 
+      width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/6ece0dad-21b0-4185-9a86-59119eca4a37" /> </a>
+  <a href="https://supabase.com/" target="_blank" rel="noreferrer">  <img 
+      width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/af15be20-89ff-4701-8d48-a0af2f722dcf" /> </a>
    </p>
 
 
