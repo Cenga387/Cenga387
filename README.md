@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Imran Čengić</h1>
-<h3 align="center">Student at International University of Sarajevo.</h3>
+<h3 align="center">CEO of SquadUp</h3>
 
 
 <br>
@@ -7,7 +7,7 @@
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 
-- 🌱 I’m a software developmer with a bachelors degree in computer science and engineering
+- 🌱 I’m a software developer with a bachelors degree in computer science and engineering
 
 - 📫 How to reach me **imocenga@gmail.com**
 
