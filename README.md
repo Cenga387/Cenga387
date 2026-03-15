@@ -9,7 +9,7 @@
 
 - 🌱 I’m a software developer with a bachelors degree in computer science and engineering
 
-- 📫 How to reach me **imocenga@gmail.com**
+- 📫 How to reach me **imrancengic02@gmail.com**
 
 <br>
 
